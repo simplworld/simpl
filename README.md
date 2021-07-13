@@ -1,1 +1,1 @@
-# Simpl cross-repository project management
+# Simpl Cross-Repository Project Management & Discussions
